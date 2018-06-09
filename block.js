@@ -5,7 +5,7 @@ class Block{
       this.timestamp = timestamp;
       this.lastHash = lastHash;
       this.hash = hash;
-      this.data = data;
+      this.data = data;  
     };
     toString(){
         return`
